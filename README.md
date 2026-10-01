@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmirrezaRoustaei
 - 👀 I’m interested in Artifitial Inteligence & Data Mining
 - 🌱 I’m currently learning Deep Learning & Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 👨🏻‍💻 I’m QA Engineer
 - 📫 How to reach me ...
 Subscribe Me:
 http://www.youtube.com/@AmirRezaRst
